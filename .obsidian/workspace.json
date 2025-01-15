@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next.js/SSR (server side rendering).md",
-                "mode": "source",
+                "file": "Javascript/Pure function.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSR (server side rendering)"
+              "title": "Pure function"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next.js/SSR (server side rendering).md",
+                "file": "Javascript/Pure function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "SSR (server side rendering) 的反向链接列表"
+              "title": "Pure function 的反向链接列表"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next.js/SSR (server side rendering).md",
+                "file": "Javascript/Pure function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "SSR (server side rendering) 的出链列表"
+              "title": "Pure function 的出链列表"
             }
           },
           {
@@ -127,7 +127,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,6 +175,13 @@
   },
   "active": "fdc524a1aa415795",
   "lastOpenFiles": [
-    "Javascript/Pure function.md"
+    "React.js/React function component.md",
+    "React.js/useEffect.md",
+    "React.js/state Immutability.md",
+    "React.js/reducer.md",
+    "React.js/React.memo.md",
+    "Javascript/Pure function.md",
+    "Next.js/SSR (server side rendering).md",
+    "React.js"
   ]
 }
