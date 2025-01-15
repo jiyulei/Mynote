@@ -6,6 +6,3 @@
 - DOM
 
 Same **input** same **output**.
-Ok
-
-Sadf
