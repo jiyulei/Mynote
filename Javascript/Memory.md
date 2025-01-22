@@ -7,3 +7,4 @@
 | Size              | Fixed and small                     | Dynamic and large          |
 | Access speed      | Faster                              | Slower                     |
 | Memory management | Automatically (LIFO)                | Garbage collection         |
+
