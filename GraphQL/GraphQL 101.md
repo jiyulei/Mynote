@@ -7,7 +7,7 @@
 **实际的数据库中数据** VS **GraphQLObjectType**
 我们希望取来的`UserType`包含对应的company信息
 ![[Pasted image 20250210042832.png]]
-希望通过以下query (顺序是重要的 id name description / id description name)：
+希望通过以下[[query ]](顺序是重要的 id name description / id description name)：
 **要什么field 就写什么**
 ``` graphQL
 {
