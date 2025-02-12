@@ -8,7 +8,7 @@
 ### 你如何确保代码的可维护性和扩展性？ （useForm独立管理， zod验证规则易于扩展）
 React hook form 提供了fields register & from state management， 避免重新渲染。zod schema 可以更改，已于扩展。
 ### 你是否参与过一个需要跨团队协作的项目？（API Schema match with Form）/ 如果后端暂时无法提供完善的API，你如何在前端阶段先行迭代?
-使用json-server或自己写mock server以及使用Swagger等方式模拟后端
+假如用graphql，前后端先定义好schema即可并行工作。使用json-server或自己写mock server以及使用Swagger等方式模拟后端
 ### 你曾经在时间压力下交付过一个功能吗？
 为了按时交付，我优先处理了核心功能，如动态字段渲染和基本验证。然后，我逐步添加了更复杂的验证逻辑和错误处理。
 break task into small tasks, core funtionality --> eg. dynamic steps, and basic validation.
