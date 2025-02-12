@@ -1,5 +1,7 @@
 #apollo #graphql 
-
+``` shell
+npm install @apollo/server graphql graphql-tag
+```
 Under server Folder  
 **Schema.js:**
 ``` js
