@@ -11,14 +11,14 @@
             "id": "fdc524a1aa415795",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Javascript/Pure function.md",
-                "mode": "preview",
-                "source": false
+                "aFile": "GraphQL/Apollo/Drawing 2025-02-12 14.23.30.excalidraw.md",
+                "bFile": "GraphQL/Apollo/Drawing 2025-02-12 14.23.30.excalidraw.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Pure function"
+              "icon": "diff",
+              "title": "Diff: Drawing 2025-02-12 14.23.30.excalidraw"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -170,17 +171,36 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "fdc524a1aa415795",
   "lastOpenFiles": [
+    "GraphQL/Apollo/Drawing 2025-02-12 14.23.30.excalidraw.md",
+    "GraphQL/Apollo/GraphQL Server.md",
+    "GraphQL/Apollo/Resolver.md",
+    "GraphQL/Apollo/DataSources.md",
+    "GraphQL/Apollo/Schema.md",
+    "GraphQL/Apollo/Apollo ClientSide.md",
+    "png/Pasted Image 20250212142449_980.png",
+    "GraphQL/Query.md",
+    "GraphQL/Mutation.md",
+    "GraphQL/Schema.md",
+    "GraphQL/GraphQL 101.md",
+    "Pasted image 20250213031614.png",
+    "GraphQL/Drawing 2025-02-10 03.25.26.excalidraw.md",
+    "png/Pasted image 20250212143854.png",
+    "Pasted image 20250212144142.png",
+    "Pasted image 20250212144146.png",
+    "png/Pasted image 20250212144150.png",
+    "Javascript/Pure function.md",
     "React.js/React function component.md",
     "React.js/useEffect.md",
     "React.js/state Immutability.md",
     "React.js/reducer.md",
     "React.js/React.memo.md",
-    "Javascript/Pure function.md",
     "Next.js/SSR (server side rendering).md",
     "React.js"
   ]
