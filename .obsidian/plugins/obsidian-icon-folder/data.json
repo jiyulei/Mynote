@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPenTool",
+      "🔻",
       "❗",
       "LiCode",
-      "LiFlag",
-      "LiBookA",
-      "LiExcalidrawIcon"
+      "LiFlag"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,8 @@
   "BehaviorQuestion/Story1 MultistepForm.md": "LiFlag",
   "GraphQL/Query.md": "LiCode",
   "GraphQL/Mutation.md": "LiCode",
-  "GraphQL/Schema.md": "LiCode"
+  "GraphQL/Apollo/Schema.md": "LiCode",
+  "GraphQL/Apollo/Resolver.md": "LiCode",
+  "GraphQL/Apollo/DataSources.md": "LiCode",
+  "GraphQL/Apollo/Drawing.md": "LiPenTool"
 }

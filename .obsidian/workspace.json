@@ -11,17 +11,30 @@
             "id": "fdc524a1aa415795",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "GraphQL/Drawing 2025-02-10 03.25.26.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-10 03.25.26.excalidraw"
+            }
+          },
+          {
+            "id": "77c365fdede3ae2e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Pure function.md",
-                "mode": "preview",
+                "file": "GraphQL/Apollo/Resolver.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pure function"
+              "title": "Resolver"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -170,17 +184,33 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fdc524a1aa415795",
+  "active": "77c365fdede3ae2e",
   "lastOpenFiles": [
+    "GraphQL/Apollo/Apollo ServerSide.md",
+    "GraphQL/Apollo/Schema.md",
+    "GraphQL/Apollo/Resolver.md",
+    "GraphQL/Apollo/Drawing.md",
+    "GraphQL/Apollo/DataSources.md",
+    "GraphQL/Drawing 2025-02-10 03.25.26.excalidraw.md",
+    "Excalidraw",
+    "未命名.md",
+    "Pasted image 20250214053555.png",
+    "Pasted image 20250214053433.png",
+    "GraphQL/Apollo/Apollo ClientSide.md",
+    "GraphQL/Query.md",
+    "GraphQL/Mutation.md",
+    "GraphQL/GraphQL 101.md",
+    "Javascript/Pure function.md",
     "React.js/React function component.md",
     "React.js/useEffect.md",
     "React.js/state Immutability.md",
     "React.js/reducer.md",
     "React.js/React.memo.md",
-    "Javascript/Pure function.md",
     "Next.js/SSR (server side rendering).md",
     "React.js"
   ]
