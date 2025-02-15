@@ -11,30 +11,31 @@
             "id": "fdc524a1aa415795",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "split-diff-view",
               "state": {
-                "file": "GraphQL/Drawing 2025-02-10 03.25.26.excalidraw.md"
+                "aFile": "Javascript/Promise.md",
+                "bFile": "Javascript/Promise.md",
+                "aRef": ""
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-10 03.25.26.excalidraw"
+              "icon": "diff",
+              "title": "Diff: Promise"
             }
           },
           {
             "id": "77c365fdede3ae2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "GraphQL/Apollo/Resolver.md",
-                "mode": "source",
-                "source": false
+                "aFile": "GraphQL/Apollo/Resolver.md",
+                "bFile": "GraphQL/Apollo/Resolver.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Resolver"
+              "icon": "diff",
+              "title": "Diff: Resolver"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,14 +190,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "77c365fdede3ae2e",
+  "active": "fdc524a1aa415795",
   "lastOpenFiles": [
+    "Javascript/Event Loop.md",
+    "Next.js/SSR (server side rendering).md",
+    "Javascript/Promise.md",
+    "GraphQL/Drawing 2025-02-10 03.25.26.excalidraw.md",
+    "GraphQL/Apollo/Resolver.md",
     "GraphQL/Apollo/Apollo ServerSide.md",
     "GraphQL/Apollo/Schema.md",
-    "GraphQL/Apollo/Resolver.md",
     "GraphQL/Apollo/Drawing.md",
     "GraphQL/Apollo/DataSources.md",
-    "GraphQL/Drawing 2025-02-10 03.25.26.excalidraw.md",
     "Excalidraw",
     "未命名.md",
     "Pasted image 20250214053555.png",
@@ -211,7 +215,6 @@
     "React.js/state Immutability.md",
     "React.js/reducer.md",
     "React.js/React.memo.md",
-    "Next.js/SSR (server side rendering).md",
     "React.js"
   ]
 }
