@@ -27,12 +27,14 @@ typeof 10n -> "bigint"
 ``` JavaScript
 function isPlainObject(value) {
   return (
-    value !== null &&
+  //排除普通null和undefined
+    value != null &&
     typeof value === 'object' && // 先排除非对象类型
     !Array.isArray(value) &&     // 再排除数组
     Object.prototype.toString.call(value) === '[object Object]'
 	// 处理set map等object
 	&& (Object.getPrototypeOf(value) === Object.prototype ||
+	// 允许Object.create(null)
     Object.getPrototypeOf(value) === null)
   );
 }
