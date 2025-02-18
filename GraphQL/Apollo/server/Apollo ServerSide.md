@@ -3,6 +3,8 @@
 npm install @apollo/server graphql graphql-tag
 ```
 Under server Folder  
+
+需要**三要素**： 1. [[Schema（gql）]] 2. [[Resolver]] 3. [[DataSources]]
 ****
 **index.js**
 ``` js

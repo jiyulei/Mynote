@@ -39,8 +39,5 @@
   "BehaviorQuestion/Story1 MultistepForm.md": "LiFlag",
   "GraphQL/Query.md": "LiCode",
   "GraphQL/Mutation.md": "LiCode",
-  "GraphQL/Apollo/Schema.md": "LiCode",
-  "GraphQL/Apollo/Resolver.md": "LiCode",
-  "GraphQL/Apollo/DataSources.md": "LiCode",
   "GraphQL/Apollo/Drawing.md": "LiPenTool"
 }

@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "45f4b1b6e0d2347c",
+        "id": "19ed0fe830f7e2a8",
         "type": "tabs",
         "children": [
           {
-            "id": "fdc524a1aa415795",
+            "id": "93c9f040176daf71",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Javascript/Promise.md",
-                "bFile": "Javascript/Promise.md",
-                "aRef": ""
+                "file": "GraphQL/Apollo/client/UseQuery.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Promise"
-            }
-          },
-          {
-            "id": "77c365fdede3ae2e",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "GraphQL/Apollo/Resolver.md",
-                "bFile": "GraphQL/Apollo/Resolver.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Resolver"
+              "icon": "lucide-file",
+              "title": "UseQuery"
             }
           }
         ]
@@ -190,22 +176,28 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fdc524a1aa415795",
+  "active": "93c9f040176daf71",
   "lastOpenFiles": [
+    "GraphQL/Apollo/client/GraphQL Qurery(查询语句).md",
+    "png/Pasted image 20250214053433.png",
+    "png/Pasted image 20250214053555.png",
+    "GraphQL/Apollo/client/UseQuery.md",
+    "Pasted image 20250217163353.png",
+    "GraphQL/Apollo/client/Apollo ClientSide.md",
+    "GraphQL/Apollo/server/Schema（gql）.md",
+    "GraphQL/Apollo/Drawing.md",
+    "GraphQL/Apollo/server",
+    "GraphQL/Apollo/client",
+    "GraphQL/Apollo/未命名.md",
+    "GraphQL/Apollo/server/Apollo ServerSide.md",
+    "GraphQL/Apollo/server/Resolver.md",
+    "GraphQL/Apollo/server/DataSources.md",
+    "GraphQL/Drawing 2025-02-10 03.25.26.excalidraw.md",
     "Javascript/Event Loop.md",
     "Next.js/SSR (server side rendering).md",
     "Javascript/Promise.md",
-    "GraphQL/Drawing 2025-02-10 03.25.26.excalidraw.md",
-    "GraphQL/Apollo/Resolver.md",
-    "GraphQL/Apollo/Apollo ServerSide.md",
-    "GraphQL/Apollo/Schema.md",
-    "GraphQL/Apollo/Drawing.md",
-    "GraphQL/Apollo/DataSources.md",
     "Excalidraw",
     "未命名.md",
-    "Pasted image 20250214053555.png",
-    "Pasted image 20250214053433.png",
-    "GraphQL/Apollo/Apollo ClientSide.md",
     "GraphQL/Query.md",
     "GraphQL/Mutation.md",
     "GraphQL/GraphQL 101.md",

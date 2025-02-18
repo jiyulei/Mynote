@@ -32,7 +32,9 @@ root.render(
 
 ```
 
-在实际需要用到数据的组件中这样写：
+client需要用到 [[UseQuery]] hook.
+
+client用的是[[GraphQL Qurery(查询语句)]] ， 在实际需要用到数据的组件中这样写： 
 ``` js
 import React from 'react';
 import { Layout } from '../components';
@@ -77,4 +79,52 @@ const Tracks = () => {
 export default Tracks;
 ```
 
-test
+**如果是带参数的query：**
+
+``` js 
+import React from "react";
+import { gql, useQuery } from "@apollo/client";
+import { Layout, QueryResult } from "../components";
+import { useParams } from "react-router-dom";
+import TrackDetail from "../components/track-detail";
+
+export const GET_TRACK = gql`
+  query Track($trackId: ID!) {
+  track(id: $trackId) {
+    id
+    title
+    author {
+      id
+      name
+      photo
+    }
+    thumbnail
+    length
+    modulesCount
+    description
+    numberOfViews
+    modules {
+      id
+      title
+      length
+    }
+  }
+}
+`;
+
+const Track = () => {
+    const { trackId } = useParams();
+    // 这个例子的参数是从地址栏来的，// "/track/:trackid" 
+    const { loading, error, data } = useQuery(GET_TRACK, {
+      variables: { trackId },
+    });
+    return (
+      <Layout>
+        <QueryResult errro={error} loading={loading} data={data}>
+          <TrackDetail track={data?.track} />
+        </QueryResult>
+      </Layout>
+    );
+};
+
+export default Track;```

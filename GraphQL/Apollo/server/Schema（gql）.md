@@ -1,4 +1,6 @@
 #graphql 
+### 注意区分gql和query的查询语句 [[GraphQL Qurery(查询语句)]]
+##### **以下为gql**
 A **schema** is like a contract between the server and the client. It defines what a GraphQL API can and can't do, and how clients can request or change data.
 ****
 ![[Pasted image 20250211042800.png]]
@@ -9,7 +11,8 @@ const gql = require("graphql-tag");
 const typeDefs = gql`
 "The query"
 type Query {
-  tracksForHome: [Track!]!  
+  tracksForHome: [Track!]!
+  track(id: ID!): Track
 }
 
 type Track {
