@@ -1,5 +1,6 @@
-#apollo #hook 
-The useQuery hook returns an object with three useful properties that we use in our app: 
+#apollo #hook #graphql #query 
+##### **区别[[UseMutation]]**
+The useQuery hook returns an **object** with three useful properties that we use in our app: 
 
 `loading` : indicates whether the query has completed and results have been returned. 
 `error` : is an object that contains any errors that the operation has thrown.

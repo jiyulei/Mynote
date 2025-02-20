@@ -11,14 +11,14 @@
             "id": "93c9f040176daf71",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "GraphQL/Apollo/client/UseQuery.md",
-                "mode": "source",
-                "source": false
+                "aFile": "GFE 75/Data Merging.md",
+                "bFile": "GFE 75/Data Merging.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "UseQuery"
+              "icon": "diff",
+              "title": "Diff: Data Merging"
             }
           }
         ]
@@ -178,35 +178,38 @@
   },
   "active": "93c9f040176daf71",
   "lastOpenFiles": [
+    "png/Pasted image 20250218132436.png",
+    "GFE 75/Data Merging.md",
+    "GFE 75/Contact Form.md",
+    "GFE 75/Holy Grail.md",
+    "GFE 75/Accordion.md",
+    "GraphQL/Apollo/client/UseQuery.md",
+    "GraphQL/Apollo/client/UseMutation.md",
     "GraphQL/Apollo/client/GraphQL Qurery(查询语句).md",
+    "GraphQL/Apollo/server/Apollo ServerSide.md",
+    "GraphQL/Apollo/client/Apollo ClientSide.md",
+    "Web/URLSearchParams.md",
+    "Web/Http & API.md",
+    "Web/Authentication.md",
+    "RestfulAPI/Nested Resources.md",
+    "GraphQL/Apollo/server/Schema（gql）.md",
+    "GraphQL/Apollo/server/Resolver.md",
+    "GraphQL/Apollo/server/Query vs Mutation.md",
+    "GraphQL/Apollo/server/DataSources.md",
+    "GraphQL/Drawing 2025-02-10 03.25.26.excalidraw.md",
+    "GraphQL/Apollo/Drawing.md",
+    "GFE 75/Drawing 2025-02-17 18.56.44.excalidraw.md",
+    "GraphQL/GraphQL 101.md",
     "png/Pasted image 20250214053433.png",
     "png/Pasted image 20250214053555.png",
-    "GraphQL/Apollo/client/UseQuery.md",
     "Pasted image 20250217163353.png",
-    "GraphQL/Apollo/client/Apollo ClientSide.md",
-    "GraphQL/Apollo/server/Schema（gql）.md",
-    "GraphQL/Apollo/Drawing.md",
     "GraphQL/Apollo/server",
     "GraphQL/Apollo/client",
     "GraphQL/Apollo/未命名.md",
-    "GraphQL/Apollo/server/Apollo ServerSide.md",
-    "GraphQL/Apollo/server/Resolver.md",
-    "GraphQL/Apollo/server/DataSources.md",
-    "GraphQL/Drawing 2025-02-10 03.25.26.excalidraw.md",
     "Javascript/Event Loop.md",
     "Next.js/SSR (server side rendering).md",
     "Javascript/Promise.md",
     "Excalidraw",
-    "未命名.md",
-    "GraphQL/Query.md",
-    "GraphQL/Mutation.md",
-    "GraphQL/GraphQL 101.md",
-    "Javascript/Pure function.md",
-    "React.js/React function component.md",
-    "React.js/useEffect.md",
-    "React.js/state Immutability.md",
-    "React.js/reducer.md",
-    "React.js/React.memo.md",
     "React.js"
   ]
 }
