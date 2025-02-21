@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93c9f040176daf71",
+            "id": "f80373809d16a893",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "GFE 75/Data Merging.md",
-                "bFile": "GFE 75/Data Merging.md",
+                "aFile": "Next.js/Server Component vs Client Component.md",
+                "bFile": "Next.js/Server Component vs Client Component.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Data Merging"
+              "title": "Diff: Server Component vs Client Component"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "promise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,8 +177,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "93c9f040176daf71",
+  "active": "f80373809d16a893",
   "lastOpenFiles": [
+    "png/Pasted image 20250220152858.png",
+    "Javascript/Promise.md",
+    "GFE 75/Job Board.md",
+    "Next.js/App router.md",
+    "Next.js/Server Component vs Client Component.md",
+    "Next.js/Drawing 2025-02-20 15.21.55.excalidraw.md",
+    "Next.js/SSR (server side rendering).md",
     "png/Pasted image 20250218132436.png",
     "GFE 75/Data Merging.md",
     "GFE 75/Contact Form.md",
@@ -198,17 +206,11 @@
     "GraphQL/Apollo/server/DataSources.md",
     "GraphQL/Drawing 2025-02-10 03.25.26.excalidraw.md",
     "GraphQL/Apollo/Drawing.md",
-    "GFE 75/Drawing 2025-02-17 18.56.44.excalidraw.md",
-    "GraphQL/GraphQL 101.md",
     "png/Pasted image 20250214053433.png",
     "png/Pasted image 20250214053555.png",
     "Pasted image 20250217163353.png",
     "GraphQL/Apollo/server",
     "GraphQL/Apollo/client",
-    "GraphQL/Apollo/未命名.md",
-    "Javascript/Event Loop.md",
-    "Next.js/SSR (server side rendering).md",
-    "Javascript/Promise.md",
     "Excalidraw",
     "React.js"
   ]
